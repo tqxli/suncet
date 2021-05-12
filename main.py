@@ -32,7 +32,7 @@ parser.add_argument(
         'paws_train',
         'suncet_train',
         'fine_tune',
-        'snn_fine_tune'
+        'snn_fine_tune',
     ])
 
 
